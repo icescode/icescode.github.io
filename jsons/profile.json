@@ -52,13 +52,13 @@
                 {
                     "time_text" : "2020 - 2022",
                     "title" : "Petunjuk Operasional Big Data menggunakan BigQ Manager",
-                    "subtitle" :"", 
+                    "subtitle" :"Harga IDR 77,900", 
                     "desc" : "Link pembelian di https://payhip.com/b/nTh9G, buku ini merupakan petunjuk operasional yang dirancang untuk staff atau data entry operator atau sejenis nya, buku ini mengupas dan membimbing bagaimana melakukan proses storing data dengan metode langsung, append dan partisi dari beragam sumber data RDBMS."
                 },
                 {
                     "time_text" : "2020 - 2022",
                     "title" : "Tata Kelola Big Data menggunakan BigQ Manager",
-                    "subtitle" :"", 
+                    "subtitle" :"Harga IDR 125,900", 
                     "desc" : "Link pembelian di https://payhip.com/b/0VYw3, buku ini membahas tuntas beragam pengaturan untuk tata kelola big data, baik itu data RDBMS atau pun data non RDBMS. Buku ini dirancang sebagai panduan lengkap untuk para administrator Hadoop yang bekerja dengan BigQ Manager versi 2.X."
                 }
             ]
