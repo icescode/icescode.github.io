@@ -6,10 +6,10 @@
     "about_heading" : "Tentang Saya",
     "content_heading" : "Konten",
     "content_pretext" : "Silahkan tap salah satu kategori di bawah ini",
-    "about" :"Hi Saya Hardiyanto, berikut adalah kumpulan catatan kerja dan projek, silahkan gunakan jika anda membutuhkannya. ",
+    "about" :"Hi Saya Hardiyanto, berikut adalah timeline catatan kerja dan projek yang telah saya kerjakan, juga terdapat beberapa buku yang saya tulis yang bisa anda beli (link pembelian tersedia),  beberapa repositori Github adalah terbuka, silahkan gunakan jika anda membutuhkannya. ",
     "stat" : [
         {
-            "title":"Projects",
+            "title":"Projek",
             "value" : 3
         },
         {
@@ -18,7 +18,7 @@
         },
         {
             "title":"Git Repo",
-            "value" : 2
+            "value" : 3
         }
     ],
 
@@ -52,14 +52,14 @@
                 {
                     "time_text" : "2020 - 2022",
                     "title" : "Petunjuk Operasional Big Data menggunakan BigQ Manager",
-                    "subtitle" :"https://payhip.com/b/nTh9G", 
-                    "desc" : "Buku ini merupakan petunjuk operasional yang dirancang untuk staff atau data entry operator atau sejenis nya, buku ini mengupas dan membimbing bagaimana melakukan proses storing data dengan metode langsung, append dan partisi dari beragam sumber data RDBMS."
+                    "subtitle" :"", 
+                    "desc" : "Link pembelian di https://payhip.com/b/nTh9G, buku ini merupakan petunjuk operasional yang dirancang untuk staff atau data entry operator atau sejenis nya, buku ini mengupas dan membimbing bagaimana melakukan proses storing data dengan metode langsung, append dan partisi dari beragam sumber data RDBMS."
                 },
                 {
                     "time_text" : "2020 - 2022",
                     "title" : "Tata Kelola Big Data menggunakan BigQ Manager",
-                    "subtitle" :"https://payhip.com/b/0VYw3", 
-                    "desc" : "Buku ini membahas tuntas beragam pengaturan untuk tata kelola big data, baik itu data RDBMS atau pun data non RDBMS. Buku ini dirancang sebagai panduan lengkap untuk para administrator Hadoop yang bekerja dengan BigQ Manager versi 2.X."
+                    "subtitle" :"", 
+                    "desc" : "Link pembelian di https://payhip.com/b/0VYw3, buku ini membahas tuntas beragam pengaturan untuk tata kelola big data, baik itu data RDBMS atau pun data non RDBMS. Buku ini dirancang sebagai panduan lengkap untuk para administrator Hadoop yang bekerja dengan BigQ Manager versi 2.X."
                 }
             ]
         },
