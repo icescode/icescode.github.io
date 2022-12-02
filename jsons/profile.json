@@ -1,0 +1,90 @@
+{
+    "name" : "Hardiyanto",
+    "tagline" : "A Mystical Journey Through The Stars",
+    "img_background_url" : "https://iili.io/HKSCwMP.jpg",
+    "img_profile_url" : "https://iili.io/HdzEeqP.jpg",
+    "about_heading" : "Tentang Saya",
+    "content_heading" : "Konten",
+    "content_pretext" : "Silahkan tap salah satu kategori di bawah ini",
+    "about" :"Hi Saya Hardiyanto, ini adalah kumpulan catatan kerja dari berbagai projek yang saya kerjakan dan beberapa source code yang bisa dipelajari atau di clone dari Github yang merupakan koleksi koleksi lama dalam bahasa C/C++/Objective-C/Phyton dan sebagainya.",
+    "stat" : [
+        {
+            "title":"Projects",
+            "value" : 3
+        },
+        {
+            "title":"Buku",
+            "value" : 2
+        },
+        {
+            "title":"Git Repo",
+            "value" : 2
+        }
+    ],
+
+    "blocks" :[
+        {
+            "title" : "PROJEK",
+            "lists" : [
+                {
+                    "time_text" : "2022 - 2022",
+                    "title" : "Sistem Auditor",
+                    "subtitle" :"Kementrian Kesehatan Philipina", 
+                    "desc" : "Audit holistik sistem Teknologi Informasi dan infrastruktur Kementrian Kesehatan Philipina."
+                },
+                {
+                    "time_text" : "2020 - 2021",
+                    "title" : "Back End Developer Arsitek",
+                    "subtitle" :"Sinarmas Logistik Indonesia", 
+                    "desc" : "Membangun sistem back end logistik dan transportasi menggunakan sistem ERP bersama sama team internal front-end."
+                },
+                {
+                    "time_text" : "2019 - 2020",
+                    "title" : "Big Data Command Center ",
+                    "subtitle" :"TMBigData Singapore", 
+                    "desc" : "Membangun sistem manajemen big data front-end untuk memudahkan tata kelola Apache Hadoop, Spark, Parquet dan Driller."
+                }                
+            ]
+        },
+        {
+            "title" : "BUKU",
+            "lists" : [
+                {
+                    "time_text" : "2020 - 2022",
+                    "title" : "Petunjuk Operasional Big Data menggunakan BigQ Manager",
+                    "subtitle" :"https://payhip.com/b/nTh9G", 
+                    "desc" : "Buku ini merupakan petunjuk operasional yang dirancang untuk staff atau data entry operator atau sejenis nya, buku ini mengupas dan membimbing bagaimana melakukan proses storing data dengan metode langsung, append dan partisi dari beragam sumber data RDBMS."
+                },
+                {
+                    "time_text" : "2020 - 2022",
+                    "title" : "Tata Kelola Big Data menggunakan BigQ Manager",
+                    "subtitle" :"https://payhip.com/b/0VYw3", 
+                    "desc" : "Buku ini membahas tuntas beragam pengaturan untuk tata kelola big data, baik itu data RDBMS atau pun data non RDBMS. Buku ini dirancang sebagai panduan lengkap untuk para administrator Hadoop yang bekerja dengan BigQ Manager versi 2.X."
+                }
+            ]
+        },
+        {
+            "title" : "GITHUB",
+            "lists" : [
+                {
+                    "time_text" : "2021 - 2022",
+                    "title" : "Kandyta",
+                    "subtitle" :"https://github.com/icescode/kandyta", 
+                    "desc" : "Kumpulan step by step membangun sistem big data sendiri menggunakan Apache Hadoop cs."
+                },              
+                {
+                    "time_text" : "2018 - 2018",
+                    "title" : "Real time audio transcoder",
+                    "subtitle" :"https://github.com/icescode/jishide.git", 
+                    "desc" : "Tata cara membangun sendiri real time audio transcoder di lingkungan MacOS dan IOS"
+                },
+                {
+                    "time_text" : "2015 - 2016",
+                    "title" : "Xiph dan UNIX Library",
+                    "subtitle" :"https://github.com/icescode/Xiph_and_friends_library_ios.git", 
+                    "desc" : "Beberapa static library C ready made untuk membangun audio streaming client server."
+                }
+            ]
+        }        
+    ]
+}
