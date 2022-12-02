@@ -55082,7 +55082,7 @@ P(a){return new A.qP(B.B3,"Homepage",A.a8y(null,"Cuprum",B.dk,null),null)}}
 A.r0.prototype={
 ag(){return new A.FX(B.k)}}
 A.FX.prototype={
-P(a){return new A.t_(new A.ty("https://icescode.github.io/jsons/profile.json",null),B.i,null)}}
+P(a){return new A.t_(new A.ty("https://web.hardiyanto.my.id/jsons/profile.json",null),B.i,null)}}
 A.a3n.prototype={
 $0(){var s=t.m7
 if(s.b(A.aaE()))return s.a(A.aaE()).$1(A.a([],t.s))
