@@ -54982,27 +54982,27 @@ ag(){return new A.HW(this.c,new A.Bd(),A.a([],t.dS),A.a([],t.cH),B.k)}}
 A.HW.prototype={
 aL(){this.bd()
 this.iU()},
-P(a){var s,r,q,p,o,n,m,l=this,k=null,j="Loading ..",i=l.XZ(125,77),h=l.r.a
-if(h==null)h=j
-h=A.jB(h,A.ie(k,k,k,k,k,k,k,k,k,k,k,24,k,k,B.o,k,k,!0,k,k,k,k,k,k,k,k),k,k)
+P(a){var s,r,q,p,o,n,m,l=this,k=null,j=l.XZ(125,77),i=l.r.a
+if(i==null)i="Loading Data Please Wait.."
+i=A.jB(i,A.ie(k,k,k,k,k,k,k,k,k,k,k,24,k,k,B.o,k,k,!0,k,k,k,k,k,k,k,k),k,k)
 s=l.r.d
-if(s==null)s=j
+if(s==null)s=""
 r=t.F
-q=A.Lz(A.a([h,A.jB(s,A.ie(k,k,B.cF,k,k,k,k,k,k,k,k,18,k,k,B.o,k,k,!0,k,k,k,k,k,k,k,k),k,k)],r),B.cJ)
+q=A.Lz(A.a([i,A.jB(s,A.ie(k,k,B.cF,k,k,k,k,k,k,k,k,18,k,k,B.o,k,k,!0,k,k,k,k,k,k,k,k),k,k)],r),B.cJ)
 s=l.r
-h=s.r
-if(h==null)h=j
+i=s.r
+if(i==null)i=""
 s=s.c
-if(s==null)s=j
-p=A.a([i,B.CS,q,B.jo,new A.zR(A.jB(h,A.ie(k,k,B.bS,k,k,k,k,k,k,k,k,24,k,k,B.cN,k,k,!0,k,k,k,k,k,k,k,k),k,k),A.jB(s,A.ie(k,k,B.cF,k,k,k,k,k,k,k,k,18,k,k,B.o,k,k,!0,k,k,k,k,k,k,k,k),k,k),!0,B.Ic,k),B.jo],r)
+if(s==null)s=""
+p=A.a([j,B.CS,q,B.jo,new A.zR(A.jB(i,A.ie(k,k,B.bS,k,k,k,k,k,k,k,k,24,k,k,B.cN,k,k,!0,k,k,k,k,k,k,k,k),k,k),A.jB(s,A.ie(k,k,B.cF,k,k,k,k,k,k,k,k,18,k,k,B.o,k,k,!0,k,k,k,k,k,k,k,k),k,k),!0,B.Ic,k),B.jo],r)
 o=l.SC(a)
 n=o.length
 for(m=0;m<n;++m)p.push(o[m])
-h=A.aQ([null,0],t.st,t.S)
+i=A.aQ([null,0],t.st,t.S)
 s=p.length
 r=!0
 r=r?B.ui:k
-return new A.zT(new A.WP(!0,!0,!0,p,h),B.aa,B.bd,!1,k,k,r,!1,k,s,B.bm,B.BP,k,B.aH,k)},
+return new A.zT(new A.WP(!0,!0,!0,p,i),B.aa,B.bd,!1,k,k,r,!1,k,s,B.bm,B.BP,k,B.aH,k)},
 XZ(a,b){var s,r=null,q={}
 q.a=null
 s=this.r.e
@@ -55082,7 +55082,7 @@ P(a){return new A.qP(B.B3,"Homepage",A.a8y(null,"Cuprum",B.dk,null),null)}}
 A.r0.prototype={
 ag(){return new A.FX(B.k)}}
 A.FX.prototype={
-P(a){return new A.t_(new A.ty("https://api.npoint.io/153137cab500f8c8f7bd",null),B.i,null)}}
+P(a){return new A.t_(new A.ty("https://icescode.github.io/jsons/profile.json",null),B.i,null)}}
 A.a3n.prototype={
 $0(){var s=t.m7
 if(s.b(A.aaE()))return s.a(A.aaE()).$1(A.a([],t.s))
