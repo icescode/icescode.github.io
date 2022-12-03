@@ -1,5 +1,5 @@
 {
-    "name" : "Hardiyanto",
+    "name" : "Hardiyanto Local",
     "tagline" : "A Mystical Journey Through The Stars",
     "img_background_url" : null,
     "img_profile_url" : null,
@@ -32,20 +32,22 @@
             ]
         },
         {
-            "title" : "BUKU",
-            "nodate" : "yes",
+            "title" : "BUKU SAYA",
+            "fancy" : "yes",
             "lists" : [
                 {
+                    "url" : "https://api.npoint.io/20e0f270652f81949257",
                     "time_text" : "2020 - 2022",
                     "title" : "Petunjuk Operasional Big Data menggunakan BigQ Manager",
-                    "subtitle" :"https://payhip.com/b/nTh9G", 
-                    "desc" : "Buku ini merupakan petunjuk operasional yang dirancang untuk staff atau data entry operator atau sejenis nya, buku ini mengupas dan membimbing bagaimana melakukan proses storing data dengan metode langsung, append dan partisi dari beragam sumber data RDBMS."
+                    "subtitle" :"Penerbit Payhip Press 2021", 
+                    "desc" : "Buku ini merupakan petunjuk operasional yang dirancang untuk staff atau data entry operator atau sejenis nya, buku ini mengupas dan membimbing bagaimana melakukan proses storing data dengan metode langsung, append dan partisi dari beragam sumber data RDBMS, kunjungi https://payhip.com/b/nTh9G"
                 },
                 {
+                    "url" : "https://api.npoint.io/20e0f270652f81949257",
                     "time_text" : "2020 - 2022",
                     "title" : "Tata Kelola Big Data menggunakan BigQ Manager",
-                    "subtitle" :"https://payhip.com/b/0VYw3", 
-                    "desc" : "Buku ini membahas tuntas beragam pengaturan untuk tata kelola big data, baik itu data RDBMS atau pun data non RDBMS. Buku ini dirancang sebagai panduan lengkap untuk para administrator Hadoop yang bekerja dengan BigQ Manager versi 2.X."
+                    "subtitle" :"Penerbit Payhip Press 2021", 
+                    "desc" : "Buku ini membahas tuntas beragam pengaturan untuk tata kelola big data, baik itu data RDBMS atau pun data non RDBMS. Buku ini dirancang sebagai panduan lengkap untuk para administrator Hadoop yang bekerja dengan BigQ Manager versi 2.X., kunjungi https://payhip.com/b/0VYw3"
                 }
             ]
         },
@@ -53,13 +55,13 @@
             "title" : "GITHUB",
             "lists" : [
                 {
-                    "time_text" : "2018 - 2018",
+                    "time_text" : "2018",
                     "title" : "Real time audio transcoder",
                     "subtitle" :"Objective-C", 
                     "desc" : "Dapat dilihat di https://github.com/icescode/jishide.git."
                 },
                 {
-                    "time_text" : "2015 - 2016",
+                    "time_text" : "2016",
                     "title" : "Xiph dan UNIX Library",
                     "subtitle" :"Static Library", 
                     "desc" : "Sebuah ready made kumpulan static library untuk membangun audio streaming client server."
